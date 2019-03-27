@@ -3,3 +3,4 @@ node_modules
 secrets.json
 test.js
 src/action.js
+config.json
